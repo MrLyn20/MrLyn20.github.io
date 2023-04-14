@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-14T18:18:12+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">同志社大学社会学研究科　陳凌雲</title><subtitle>普段研究している内容を発信します。</subtitle><entry><title type="html">媒介効果</title><link href="http://localhost:4000/2023/04/12/%E5%AA%92%E4%BB%8B%E5%8A%B9%E6%9E%9C.html" rel="alternate" type="text/html" title="媒介効果" /><published>2023-04-12T00:00:00+09:00</published><updated>2023-04-12T00:00:00+09:00</updated><id>http://localhost:4000/2023/04/12/%E5%AA%92%E4%BB%8B%E5%8A%B9%E6%9E%9C</id><content type="html" xml:base="http://localhost:4000/2023/04/12/%E5%AA%92%E4%BB%8B%E5%8A%B9%E6%9E%9C.html"><![CDATA[<script type="module"> import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'; mermaid.initialize({ startOnLoad: true }); </script>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-14T18:41:32+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">同志社大学社会学研究科　陳凌雲</title><subtitle>普段研究している内容を発信します。</subtitle><entry><title type="html">プログラム評価における媒介効果</title><link href="http://localhost:4000/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%95%E4%BE%A1/2023/04/13/%E5%AA%92%E4%BB%8B%E5%8A%B9%E6%9E%9C.html" rel="alternate" type="text/html" title="プログラム評価における媒介効果" /><published>2023-04-13T00:00:00+09:00</published><updated>2023-04-13T00:00:00+09:00</updated><id>http://localhost:4000/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%95%E4%BE%A1/2023/04/13/%E5%AA%92%E4%BB%8B%E5%8A%B9%E6%9E%9C</id><content type="html" xml:base="http://localhost:4000/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%95%E4%BE%A1/2023/04/13/%E5%AA%92%E4%BB%8B%E5%8A%B9%E6%9E%9C.html"><![CDATA[<script type="module"> import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'; mermaid.initialize({ startOnLoad: true }); </script>
 
-<hr />
-<p>title: プログラム評価における媒介効果
-date: 2023-04-13
-tags: [プログラム評価, 媒介効果]
-—</p>
+<p><img src="https://imgloc.com/i/ixGRNb" alt="ロジット・モデルによる推定結果" /></p>
 
 <h1 id="媒介効果とは何か直接的効果">媒介効果とは何か（直接的効果）</h1>
 <p>媒介効果（mediation effect）とは、原因と結果の間にあって双方の関係を仲介する要因の効果を意味する。多くの介入では、プログラム自体を原因とし、プログラム参加者へのアウトカム、つまり「結果」への直接的な効果が測定される。しかし、このような因果関係図式に基づいたアウトカムの測定では、プログラムの何が、どのような経路を経てアウトカムに影響を及ぼしたか、という過程は明らかにはならない。つまり、プログラムの過程をブラックボックス化させてしまい、プログラムの介入の効果があったかどうか、効果の大きさはどの程度であったか、という直接的な因果関係のみが考察される。</p>
@@ -77,13 +73,7 @@ flowchart LR
 <ol>
   <li>もしこのエイズ感染予防プログラムの効果が思うように上がっていない場合には、キャンペーンの対象者に今まで以上にエイズの知識の啓蒙・伝達を行い、感染の防止に努めることが考えられる。ここでは、媒介要因と仮定される対象者の知識向上を促すプログラムを強化し、感染を防ぐようにできる。</li>
   <li>プログラム実際には感染予防に効果をもたらしていない場合には、③の可能性がうかがえる。つまり、エイズ感染予防の知識向上は、エイズ感染の低減につながるまでにプログラムの実施期間以上の時間を要する。または関係がないという可能性である。例えば、感染を低減するためには、知識ではなく、行動的な側面に焦点を当てたものが必要だったのかもしれない。つまり、プログラムの仮説上の設定ミスあるいは理論上の問題。</li>
-</ol>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">调整效果</title><link href="http://localhost:4000/2023/04/12/%E8%B0%83%E6%95%B4%E6%95%88%E6%9E%9C.html" rel="alternate" type="text/html" title="调整效果" /><published>2023-04-12T00:00:00+09:00</published><updated>2023-04-12T00:00:00+09:00</updated><id>http://localhost:4000/2023/04/12/%E8%B0%83%E6%95%B4%E6%95%88%E6%9E%9C</id><content type="html" xml:base="http://localhost:4000/2023/04/12/%E8%B0%83%E6%95%B4%E6%95%88%E6%9E%9C.html"><![CDATA[<script type="module"> import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'; mermaid.initialize({ startOnLoad: true }); </script>
-
-<hr />
-<p>title: プログラム評価における調整効果
-date: 2023-04-12
-tags: [プログラム評価, 調整効果]
-—</p>
+</ol>]]></content><author><name></name></author><category term="プログラム評価" /><category term="媒介効果" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">プログラム評価における調整効果</title><link href="http://localhost:4000/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%95%E4%BE%A1/2023/04/13/%E8%B0%83%E6%95%B4%E6%95%88%E6%9E%9C.html" rel="alternate" type="text/html" title="プログラム評価における調整効果" /><published>2023-04-13T00:00:00+09:00</published><updated>2023-04-13T00:00:00+09:00</updated><id>http://localhost:4000/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%95%E4%BE%A1/2023/04/13/%E8%B0%83%E6%95%B4%E6%95%88%E6%9E%9C</id><content type="html" xml:base="http://localhost:4000/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A9%95%E4%BE%A1/2023/04/13/%E8%B0%83%E6%95%B4%E6%95%88%E6%9E%9C.html"><![CDATA[<script type="module"> import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'; mermaid.initialize({ startOnLoad: true }); </script>
 
 <h1 id="調整効果">調整効果</h1>
 <p>媒介要因は、プログラムと結果の因果連鎖（causal link）の間に位置する要因を意味する。一方、調整要因は、プログラムとの交互作用（interaction）によって結果に影響を及ぼす要因を指す。例えば、男性と女性によってプログラムの効果が違う場合。ここでは、プログラム（原因）とアウト
@@ -108,4 +98,4 @@ flowchart LR
     プログラム原因--&gt;|a|アウトカム結果
     調整要因--&gt;|b|アウトカム結果
     プログラムと調整要因の交互作用--&gt;|c|アウトカム結果
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="プログラム評価" /><category term="調整効果" /><summary type="html"><![CDATA[]]></summary></entry></feed>
