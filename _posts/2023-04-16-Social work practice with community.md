@@ -1,0 +1,342 @@
+---
+title: Social Work Practice with Communities - Intervention, Termination, and Evaluation
+date: 2023-04-16
+categories:
+  - Social work Practice
+tags:
+  - 研究
+---
+
+# 書籍
+Birkenmaier, J., & Berg-Weger, M. (2020). _The practice of generalist social work_. Routledge.P496-527
+
+# Begin
+
+LIKE SOCIAL WORK PRACTICE WITH INDIVIDUALS, FAMILIES, AND GROUPS, 
+the middle and ending phases of work with communities are intervention ,termination, evaluation, and follow-up. As noted in Chapter 10, community practice is a broad term that includes grassroots community organizing, community development, human service program development, planning and coordination, and advocacy (Weil, Gamble, & Ohmer, 2013). There are many types of community interventions, all of which are based on the data gathered and process used for community assessment. The aim of many community practice interventions is to build community capacity and shape institutional arrangements that meet the needs of community members.
+
+In this chapter, we begin with a discussion of theoretical traditions and practice models that can help guide social work intervention with communities. Our focus is on the most recognized models of community intervention, as well as the ways in which they can be mixed in practice. After providing an overview of social work interventions with communities, the chapter continues with a look at the termination, evaluation, and follow-up processes.
+
+# Theoretical traditions and models for community intervention
+
+As we discussed in Chapter 10, conceptual and theoretical traditions in social work provide a lens through which to understand and analyze communities. For example, you can apply the strengths approach to communities by identifying assets and resources of individuals, groups, and institutions in that community. You can achieve the empowerment approach by helping community members realize their capacity to build on the community’s strengths (Netting et al., 2017).
+
+Community practice models, which are primarily based in the concepts and language of systems, ecological, power, change, and politics theories, guide community interventions (Netting et al., 2017). As Exhibit 11.1 notes, systems theory helps to demonstrate that planned community change reverberates throughout a community and affects units within and outside of a community. Therefore, when you choose a community intervention, you should consider the possibility that community change may affect more people than you intend.
+
+Ecological theory’s focus on competition for limited resources, which can affect the relationships among different parts of a community or between communities, informs community interventions. Theoretical traditions that focus on power, change, and politics emphasize the ways in which external forces influence local communities and the ways in which some members of a community possess social or political power while other members do not. Social workers in community practice can help members of a community critically examine both external and internal power and the influence of the various types of power. Without examining power dynamics, community members cannot have honest and open discussions about what is best for the community as a whole, and how to establish priorities for their community’s future.
+
+### Exhibit 11.1 Understanding Community Practice: Theoretical Contributions
+| Theoretical                 | Contributions to understanding community practice                                                                               |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Social systems              | Reveals that changes in one community unit impact other units indicates that changes in subunits influence the larger community |
+|                             | Allows comparisons of the functioning of different communities                                                                  |
+| Ecological                  | Sheds light on relationships among community units                                                                              |
+|                             | Recognizes that community groups compete for limited resources                                                                  |
+|                             | Recognizes that groups without power must adapt to community norms                                                              |
+|                             | Acknowledges the interconnections and mutual shaping of physical and social structures                                          |
+| Power, Change, and politics | Reveals the influence of external sources of resources on communities                                                           |
+|                             | Views the community as divided into "haves" and "have-nots"                                                                     |
+|                             | Focuses heavily on "isms" such as racism                                                                                        |
+|                             | Acknowledges the role of power in all interpersonal transactions                                                                |
+Source: Netting, Kettner, McMurtry, & Thomas, 2017
+
+As highlighted in Chapter 10, data from the community-assessment process provides the basis for community change efforts, which often use a variety of approaches. The models most common in the literature are Rothman’s (2008) three models of community practice: planning/policy, community capacity development, and social advocacy. These three models have the goal of improving social, economic, and/or environmental well-being and share several common elements, including the following:
+
+• the formulation of a change goal,
+
+• roles for staff,
+
+• leaders and members,
+
+• a process for selecting issues to work on,
+
+• a target of the change effort,
+
+• assessment of resources needed to produce change, and
+
+• an understanding of the role of organizations in the change process.
+
+## the planning/policy Model
+
+The planning/policy model of community intervention focuses on data and logic to achieve community change, using experts to assist in the process of studying problems and applying rational planning techniques. Social workers using social planning consider political realities and the usefulness of advocacy in the intervention process, but the primary emphasis is on rational planning.
+
+The planning/policy model can be implemented in a range of practice situations. Social workers engage in social planning when they participate in efforts to envision, develop, coordinate, deliver, and improve human services. Planning is needed for all types of human services (i.e., child welfare, health, aging) and topics (i.e., gang violence, neighborhood development), and in all types of host organizations, including local, state, or federal governments, faith-based organizations, and community councils (Sager & Weil, 2013). As one example, social workers prioritize data when they are involved in comprehensive planning, such as working with city officials to create a plan for homeless shelters or juvenile justice facilities in the community. In these situations, data from local nonprofit organizations, local and state governments, and the U.S. Census Bureau can be of great use in shaping decisions.
+
+## The Community Capacity development Model
+
+The community capacity development model focuses on fostering the community’s ability to accomplish change by building relationships and skills that help solve local problems in a cooperative manner. Participant consensus is the optimal decision-making process for this model. This model emphasizes building competency of community members, groups, and the community as a whole through self-help and local problem-solving. Building community capacity often focuses on empowerment of members, solidarity among members, participation in civic action within a democratic process, and the development of leadership from the community. For example, neighborhood associations may work to educate themselves on ways to address a trash dumping problem. The work of the U.S. Peace Corps, in which international volunteers work with local communities to create a project or increase capacity in an ongoing community effort, is another example of the community capacity development model.
+
+>For another example of the community capacity development model, we return to Taylor and Ben, the social workers who are planning a barbeque for youth from a school and older adults from a nearby senior center. Taylor spoke ahead of time with two students who had excellent communication skills and asked them to help barbeque and serve food. Ben similarly lined up two senior center leaders to help. This planning seemed to smooth the initial moments of the “meet-and-greet” and gave the two age groups a chance to begin getting to know one another. Soon after people began to finish their meals, Taylor and Ben started the discussion by explaining how “brainstorming” worked and then asking everyone to share ideas for small enterprises that would help build new skills for the youth while also meeting needs in the larger community.
+>
+>A number of people shared ideas for small businesses that seemed feasible. One of the older adults said that he would love to have salads and vegetables with the senior center congregate meals that many participants brought as side dishes to accompany the barbeque. While he contributed the idea as a complement to the cooks, one of the students said that he would grow vegetables for the senior center if he knew anything about gardening. Another student said she would be happy to help cook vegetables if she knew anything about cooking. These comments had the group laughing but also led to a sharing of stories from the older adults about learning how to garden and cook as children.
+>
+>By the end of the meet-and-greet, an idea for a small community garden had begun to form. Many of the youth seemed interested in learning how to grow vegetables for older adults to add to their congregate meals, and in being able to sell the leftover vegetables to neighbors for a reasonable price. Several older adults offered to help plan the community garden and teach the youth how to cultivate and harvest vegetables. Others had little interest in working outside during the summer heat but said they would be happy to teach students how to prepare and cook vegetable dishes. One of the youths suggested creating a digital cookbook featuring vegetables from the community garden and selling e-copies to earn money to help sustain the garden. The group agreed to meet again the following week to develop a list of what each person could do to contribute to the community gardening effort. Taylor and Ben had successfully used a community capacity development model to form a collaborative intergenerational team to improve the neighborhood.
+
+## the social advocacy Model
+
+The social advocacy model is based in theoretical traditions that focus on conflict, power dependency, and resource mobilization. This model is both process and task-oriented and focuses on shifting power relationships and redistributing resources to facilitate change in community structures or institutions to resolve problems affecting many residents. Through this model, community members often experience empowerment when they feel a sense of achievement in helping to influence decisions and policies that affect the entire community.
+
+A helpful example of the social advocacy model is the work of Greenpeace. To seek solutions to environmental dilemmas, such as climate change, Greenpeace nonviolently confronts decision-makers and those who may influence decision-makers. The goal of their work is to promote public dialog about environmental issues and to advocate for policies that protect the earth.
+
+As listed in Quick Guide 32, there are a wide variety of social advocacy activities, including, but not limited to, protesting, striking, walking on picket lines, and testifying (Rothman, 2008; Weil & Gamble, 2009).
+
+## Applying Community Practice Models to a Case example
+
+### Activities to Promote Social Change
+- Conduct petition drives 
+- ==Conduct public hearings== 
+- ==Develop relationships with decision-makers== 
+- File complaints 
+- Lobby decision-makers 
+- Organize boycotts 
+- Organize public demonstrations 
+- Organize strikes 
+- ==Provide testimony== 
+- Recruit and develop leaders 
+- Register voters 
+- Use legal action 
+- ==Use media== 
+- ==Write letters to legislators and/or the media==
+Sources: Bobo, Kendall, & Max, 2010; University of Kansas Work Group for Community Health and Development, 2018
+
+### Applying Community Practice Models to the Brickville Redevelopment Example
+
+The Brickville community is in a quandary. Although the community needs redevelopment, the current proposal to completely overhaul the physical structures in the community, including razing some buildings, has stirred major controversy among current community residents, neighborhood social service providers, and sympathetic outsiders. The community has had little input into the plan, and some residents fear that they would no longer be able to afford to live in the neighborhood after the redevelopment. For example, after similar redevelopment efforts in other parts of the city, both rents and property taxes have increased, leading to long-term residents needing to move to more affordable neighborhoods. Other people do not like the plan itself, believing that the planned changes in community real estate will change the look and character of the area. Some residents think that the community will benefit from redevelopment despite the possible negative effects. Still others do not trust the developer who has proposed the redevelopment. Over the past half-century, real estate developers have made several half-hearted efforts to redevelop the residential and commercial parts of the community, with little success. However, several real estate developers are now working to redevelop different areas of the community, and all are requesting public funding in addition to applying for loans from area banks for their development efforts. While some developers are working with current residents, most have not asked community groups or local political leaders for their input or feedback on the redevelopment plans.
+
+**The Planning/Policy Model**: Using the planning/policy model, the community group or local political leader would request that city planners generate data or use previously existing data to create a redevelopment plan for the community to which all developers would have to adhere.
+
+**The Community Capacity Development Model**: using the community capacity development model, one or more community groups from the affected area would begin a process of developing their ability to create a comprehensive community redevelopment plan that they could present to real estate developers and/or city officials.
+
+**The Social Advocacy Model**: using the social advocacy model, one or more leaders from the affected area would organize community residents and groups to communicate with specific decision-makers, and sometimes bring pressure to bear as needed, to affect outcomes of interest such as zoning ordinances, public funding, and the availability and structure of tax breaks for redevelopers. advocacy efforts including messaging workshops, sign-making parties for public protests, and strategic timing and locations for community outreach and educational events would likely be involved using this model.
+
+One of the ways that social workers facilitate social change in community practice is to provide testimony to decision-making bodies such as neighborhood associations, city councils, departments at the local or state level, and state legislatures. Preparing and providing testimony is a strategy that can be used in conjunction with any of the community intervention models. Quick Guide 33 provides details on preparing and presenting testimony.
+
+### Providing Testimony
+
+Social workers often provide testimony to legislative and planning committees at the local, state, regional, and national levels. The main purpose of testimony is to share information and advocate for evidence-based solutions. The following steps are helpful when preparing to provide testimony to a legislative body:
+
+1. Learn about how legislative proposals (bills) work their way through the legislature. Who sponsored or co-sponsored the bill? To what committee(s) has your bill been assigned? What are the possible outcomes of committee work on the bill? Where will the bill go next if the committee approves it? Has a similar bill been introduced in the other chamber?
+
+2. Learn about the history of the topic and bill. Has this bill been proposed before? Who sponsored it? What happened to the bill? Did the general public already vote on the topic through a referendum? Has this bill already been amended?
+
+3. Engage in research about the topic. Research existing statutes that the bill seeks to amend, revise, supplement, or delete. If possible, research the cost of the bill, if enacted. A “fiscal note” is often prepared by staff members of the legislative body to estimate the potential costs in some detail.
+
+4. Engage in research about the politics of the bill. Which individuals or what groups are working for the bill? Against the bill? What are their perspectives?
+
+5. Research the committee membership. Who is the chair? What is his/her perspective on the topic of your bill? Who else is on the committee? What are their interests and those of their constituents? How have they voted on this topic before?
+
+6. Determine how long your testimony should be, and, depending on time, draft a written statement that: (1) provides factual data, including cost estimates, needed to support the desired policy changes; (2) analyzes the proposed changes/additions to present law; (3) discusses how the desired policy changes would alleviate community problems, and any possible new problems that various attempts to do so may create; and/or (4) provides suggestions for needed amendments to changes that have been previously suggested.
+
+When delivering your testimony, consider the following:
+
+7. Use effective nonverbal communication. Dress professionally, make eye contact, and display a calm and confident demeanor.
+
+8. Start your testimony by introducing yourself and the organization you represent. Use full titles to address committee members. At the beginning and end of your testimony, thank the committee chair and decision-makers for allowing you to speak. State your name and background information related to the topic at hand (such as where you live, your credentials, or your connection to the topic). Clearly state your request for the outcome of the decision-making process.
+
+9. Describe your involvement with the topic, including any helpful context or background. If the testimony is related to your employment, provide your employer’s name and interest in the topic.
+
+10. Describe how the topic affects you, your clients, and members of your community. Provide factual information as well as anecdotes. Describe how the pending decision will positively or negatively affect you, your clients, and members of your community, and include a description of who will benefit, or who will be hurt, by the decision.
+
+11. End by thanking the committee again, and offer to be of further assistance. Offer to leave a copy of your written statement with the committee.
+
+12. Convey passion for the topic you are addressing, balanced with professionalism.
+
+13. If you are asked questions, maintain your professionalism. Do not take questions personally, but rather state facts and your position on the bill. Offer to get facts or call on someone else to help, if needed.
+
+Remember that a vote can be the result of a particular amendment to the bill, budget projections, position of party leadership, or complex interrelationships between procedural and substantive issues—not necessarily the subject of the bill. This means that it is important not to assume that votes against the community’s interest are the result of lack of support for the community at other times or on other issues.
+
+Source: Kleinkauf, 1981; Oregon Legislature, n.d.; University of Kansas Work Group for Community Health and Development, 2018.
+
+## Blending Models
+
+While we present models here in a “pure” form, in practice strategies from various models are often used together in community practice. For this reason, it is important for social workers in community practice to know about and plan to use parts of all of the models as needed (Rothman, 2008; Weil & Gamble, 2009). We present examples of using strategies from different models, or blending the models, in this section.
+
+### Blending the planning/policy and Community Capacity development Models 
+
+It is possible to blend the planning/policy model and the community capacity development model with the use of citizen input and a data-driven planning process. For example, the St. Louis Mental Health Board in Missouri periodically completes a needs assessment of local mental health services to identify unmet needs. The Board then creates a multiyear plan to allocate funding to best meet those needs. Throughout the process, the Board receives feedback from mental health providers and citizens, including those who receive mental health services. In this way, the Board uses strategies from two models through the strong reliance on data (planning/policy) and the use of citizen and provider input into the planning process (community capacity development) (Rothman, 2008).
+
+Another example of using strategies from different models can be seen in social work practice within **community development corporations (CDCs)**, which are resident-driven organizations that exist to provide assistance to the community. This assistance can include facilitating housing improvements throughout the community, supporting businesses and commercial real estate efforts, and involvement in improving child care availability, community centers, and other community resources. Boards of residents, business owners, and local government officials generally govern CDCs. They often use data-informed approaches in creating small-business assistance programs, helping to establish cooperatives, which are member-owned and -operated businesses, or rehabilitating affordable housing in the community (Garkovich, 2011).
+
+### Blending the social advocacy and planning/policy Models 
+This is done by emphasizing the use of data and logic in policy advocacy efforts. For instance, social workers in community practice often work with residents in using data from needs assessments and funding allocation plans to advocate for policy changes at the local or state levels in educating decision-makers and engaging in citizen lobbying efforts as needed. In this manner, community practice efforts can involve both the use of data (planning/policy) and advocacy efforts (social advocacy) to facilitate community change (Rothman, 2008). This blend can best describe the efforts of many prominent social justice pioneers in history, such as Jane Addams, John Dewey, Margaret Sanger, and Ida B. Wells-Barnett. These pioneers based their arguments about social ills such as child labor, lynching, inadequate housing codes, laws against birth control, and many other issues on data and logical arguments. Using tactics associated with different models that bring pressure to bear on decision-makers (social advocacy) with data and logic (planning/policy) most closely aligns with the roots of the profession (Rothman, 2008). Today, “think-tanks” such as the Urban Institute and the New America Foundation provide well-researched factual reports that social advocacy groups use to work for change.
+
+### Blending the social advocacy and Community Capacity development Models 
+By blending these models, networks of community stakeholders are encouraged to advocate with leaders, elected officials, and other decision-makers to improve the community. For example, a neighborhood group may learn about the plans to establish a landfill that would accept some toxic waste in their community and decide to fight it by lobbying key decision-makers, delivering petitions, and/ or picketing the local government. A group of parents of children who are lesbian, gay, bisexual, transgender, and queer (LGBTQ+) may decide to engage in an online effort to advocate for civil rights for LGBTQ+ people in their community. If their elected officials and key decision-makers in public offices responsible for civil rights protections are not responsive, the parent group may plan a more public action such as a sit-in at a strategic location to advocate for the support they need. This approach emphasizes building community capacity with social advocacy techniques in situations where this mix will maximize the possibility for community change (Rothman, 2008). The use of strategies associated with community capacity development and social advocacy together is common in long-term social change efforts such as the LGBTQ+ rights, environmental, and women’s rights movements. Strategically using social advocacy techniques while building the capacities of community members helps create an aptitude for long-term involvement in community intervention (Rothman, 2008).
+
+# Skills for community intervention
+
+Community intervention involves social work practice to improve community conditions and quality of life for neighborhood residents or community members. We discuss community social and economic development, asset building and asset mapping, and community organizing. We also cover the skills of conducting meetings and facilitating decision-making in community practice.
+
+## Community social and economic development
+
+Community social and economic development (hereafter referred to as “community development”), also called “locality development” and “community building,” is an often-ambiguous term with a variety of definitions. In this text, it is a community intervention method that seeks to maximize human potential by focusing on social relationships and the environment to improve the physical and social fabric of communities (Rubin & Rubin, 2008). Community development emphasizes social development through relationship building, education, motivation for self-help, and leadership development. It encourages local participation in community efforts toward the goal of strengthening democracy at the local community level and can include efforts to revitalize institutions. Community development that is focused on economics includes economic development, affordable housing, employment services, and other activities. Often community social development and community economic development efforts are simultaneous and interdependent, and they can be viewed as a continuum.
+
+Community development may include professions from many fields in addition to social work, including business, sociology, anthropology, psychology, and others (Gamble & Hoff, 2013). Community development work most closely aligns with the community capacity development model discussed earlier, because its goal is to mobilize communities to solve problems and effectively work with institutions rather than to engage in social advocacy or planning/policy work. However, community development work also can use a mix of models, depending on the needs at the time.
+
+The following assumptions drive community development (Cnaan & Rothman, 2008, pp. 247–248):
+
+- People may need to become aware of a common problem and create a desire to act in order to solve problems.
+
+- A diverse group of people across various dimensions of diversity (i.e., race, ethnicity, socioeconomic status, etc.) adds value and authenticity to the efforts and ensures that they serve the interests of more than one group of people.
+
+- Democratic decision-making and participatory democracy values and fosters local self-determination.
+
+- Empowerment, or the capacity to solve problems by working with the authorities and institutions that affect the lives of community members, is a central goal of community development.
+
+- The primary constituents of the community development social worker are community members and community organizations, rather than those who hold more power.
+
+- Planned change is preferred to inaction that allows current conditions to continue.
+
+## Community development skills 
+
+The most commonly used practice skills are group work skills. Group work, covered extensively in Chapters 8 and 9, is a major part of community development work, as this type of work is often conducted in meetings. To ensure success, community development social workers must employ task group work skills including leadership; communication; problem-solving; and managing group function and processes such as educating, forming groups, seeking consensus, encouraging group discussion, and focusing to solve concerns and problems common to the group. Other skills include analyzing community issues and facilitating the increase of communication among community members (Cnaan & Rothman, 2008).
+
+As discussed in Chapter 9, promoting leadership from within the community in social work directed at community development requires the ability to distribute leadership as widely as possible. Facilitation of effective task meetings is one example of a leadership skill that social workers may use or teach to community leaders. Quick Guide 34 provides an overview of the tasks involved in effective meeting facilitation. These tasks can be distributed among individuals during meetings or handled by a small group in preparation for a larger meeting as a way to learn and exercise leadership skills.
+
+### QUICK GUIDE 34 Elements of Effective Meetings
+
+| Stage       | Element              | Notes                                                                                                                                                                                                              |
+| ----------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Preparation | Goals                | Develop goals for each meeting                                                                                                                                                                                     |
+|             | Site                 | Establish a meeting site that is familiar, accessible, perceived as safe, and has parking.                                                                                                                         |
+|             | Date/Timing          | Set a date and time that is convenient for the majority of prospective participants.                                                                                                                               |
+|             | Facilitator          | Involve the facilitator in setting the agenda.                                                                                                                                                                     |
+|             | Agenda               | Include information about each item, the name of the person who is introducing the item, and a time limit. Discuss easy items first, followed by hard and then moderate decisions.                                 |
+|             | Food                 | Offer food and drinks in ways that are least disruptive.                                                                                                                                                           |
+|             | Recruitment/Turnout  | Use word-of-mouth and written meeting announcements, and remind people a few days prior to the meeting.                                                                                                            |
+|             | Meeting Roles        | Assign roles ahead of time, including facilitator, note taker, timekeeper, presenter, and greeter.                                                                                                                 |
+|             | Room Logistics       | Set up chairs, AV equipment, flipchart, sign-in table, food/drink, and microphone early enough to check the equipment.                                                                                             |
+|             | Background Materials | Prepare background materials about pending decisions and preliminary proposals to discuss.                                                                                                                         |
+| Meeting     | Timeliness           | Begin and end the meeting on time.                                                                                                                                                                                 |
+|             | Welcome,Introduce    | Begin with a warm welcome and introductions to set a positive tone, regardless of the turnout.                                                                                                                     |
+|             | Agenda               | Review the agenda with the group and make changes as needed.                                                                                                                                                       |
+|             | Meeting Rules        | Explain any rules, including decision-making rules.                                                                                                                                                                                         |
+|             | Discussion           | Encourage discussion of various viewpoints; encourage all to speak by drawing out quieter people, limiting those who dominate, and encouraging respect for viewpoints; summarize; and bring closure to discussion. |
+|             | Focus                | Bring the group back to the agenda if the discussion wanders.                                                                                                                                                      |
+|             | Endings              | Summarize meeting results, decisions, and needed follow-up. Thank people for attending.                                                                                                                            |
+| Follow-up   | Notes                | Prepare and disseminate meeting notes quickly.                                                                                                                                                                     |
+|             | Think people         | Contact people, especially new people, to thank them for their contribution to the meeting, to encourage follow-up on commitments for action, and to encourage them to attend the next meeting.                    |
+
+Source: Adapted from Bobo, Kendall, & Max, 2010; Minieri & Getsos, 2007
+
+In task groups, using decision-making processes that promote full participation is important. Decision-making for groups can be handled in many ways, including the ==parliamentary procedures==, sometimes known as ==Robert’s Rules of Order==, and ==consensus decision-making==. Quick Guide 35 provides an overview of Robert’s Rules of Order, and Quick Guide 36 provides an overview of consensus decision-making. Both types of decision-making processes are common in task groups, depending on the context of the work. Social workers need to be familiar with decision-making processes to fully participate as individuals and to help others participate.
+
+Recruitment of new participants is an ongoing and important community development skill. Participants involved in community development work are often volunteers, and recruiting, training, monitoring, and rewarding volunteers is important to the success of long-term goals. The most effective ways to recruit participants include focusing on people who are most likely to join, using a well-formed recruiting message, using multiple recruitment methods, providing orientation for new participants, and making it easy to join activities. Volunteer activities have to be calibrated to fit the skills, time, and interests of volunteers and be meaningful to them (Cnaan & Rothman, 2008).
+
+### QUICK GUIDE 35 Utilizing Robert’s Rules of Order
+
+Many formal groups, such as boards of directors, committees, and policy-making groups, often use some form of a formal decision-making process. Parliamentary procedures, or Robert’s Rules of Order, are often used because they are well known, help to maintain order, and allow actions to be taken in an expedient and consistent manner. Although the process can be quite complex, some groups utilize the general rules without learning the minutiae. Understanding the major concepts of parliamentary procedure is a critical social work skill for facilitating and participating in a meeting.
+
+Robert’s Rules of Order provide a structured, democratic (majority rules) mechanism whereby formal groups can engage in efficient and fair decision-making. The following are major elements of the process:
+
+- The use of a motion to introduce a proposal. Any idea for the group’s consideration must be introduced as a motion (i.e., “I move that …”). Only one motion can be considered at a time.
+- The seconding of a motion to move a proposal forward for discussion. A motion cannot move forward in the process unless someone other than the person who made the motion “seconds” the motion (i.e., “I second the motion”). Without a second, a motion dies and is not discussed.
+- The use of open discussion to enable participants to present perspectives and ask questions about a motion. After a motion is made and seconded, the facilitator can open discussion about the motion, and group members can ask questions of the people who made and seconded the motion.
+- Amendments to reflect revisions to an original motion based on the debate/discussion. During the discussion, one or more participants may offer an amendment to clarify or narrow the motion. This amendment must be voted on before the original motion is voted on. A majority vote is required to pass an amendment.
+- Majority rules (i.e., a minimum of 51 percent of members agreeing) to establish a motion as a decision.
+
+Source: Adapted from Robert, Honemann, & Balch, 2011
+
+### QUICK GUIDE 36 Utilizing Consensus for Decision-Making
+
+Real change, at the individual, family, group, community, or organizational level, comes from individuals who are highly committed to a decision or direction in which they fully participated. Consensus decision-making, or a cooperative process in which all members develop and agree to support a decision that is in the best interests of the whole group, can be effective in situations in which the following conditions are present:
+
+- Participants feel a genuine stake in the decision.
+- Participants share a common purpose and values.
+- Participants trust each other.
+- Participants are willing to put the best interests of the group over personal preferences.
+- Participants can share their ideas and opinions freely, without fear of ridicule.
+- Enough time is available for the process.
+- Participants can engage in active listening and consider different points of view.
+
+After preparing for the meeting, the process helps meeting participants:
+
+- Explore the issue toward the goal of developing an informed, shared understanding of the facts and the issue.
+- Establish decision criteria, including such factors as interests/needs that must be met, resource constraints, and possible ramifications of decisions.
+- Develop and discuss a written preliminary proposal.
+- Test for consensus, asking participants whether they can live with the proposal (original or amended), whether it meets the decision criteria, and whether it is the best decision possible.
+- Reach agreement by restating the proposed decision and ensuring that participants can support the implementation of the proposal.
+
+Source: Adapted from Dressler, 2006
+
+# A Generalist approach to Community intervention
+
+Depending on the context of the community intervention, generalist social workers often integrate aspects of community organizing and community development activities into their practice. For example, social workers can help community members develop a shared identity, interpersonal bonds, skills for public discourse, the ability to determine priorities and work on common challenges together, as well as leadership skills. All of these must be developed for community change efforts to be possible. Social workers can play an important role in helping develop these prerequisites. Further, social workers who work primarily with individuals, families, and groups have opportunities to support the development of these skills and to encourage people to participate in community efforts.
+
+Social workers can help build the capacity of individuals to engage in community interventions in many ways. At the interpersonal level, social workers emphasize collaboration with both clients and community members to optimize rights, strengths, and capabilities. Social workers discuss power and control with clients and community members to increase awareness of these dynamics in everyday life and in community activities. As first suggested by Paulo Freire (1973), educating people about social conditions, patterns of resource distribution, oppression, and other social and environmental realities, and using respectful discussion and questioning, can help and support people to engage in collective action.
+
+==Social workers strive to provide evidence-based interventions in community practice==. Creating a body of research to inform evidence-based practice has proven challenging due to the complexity of community interventions, the difficulties of community research, and many organizations’ lack of capacity to engage in research. Yet social workers must conduct or locate research before intervening. Quick Guide 37 lists sample resources for locating evidence on community practice interventions. Exhibit 11.6 provides research findings about the most effective community intervention activities that social workers undertake (Ohmer & Korr, 2006).
+
+Social workers also engage in social planning efforts when they participate in proposing that elected officials or human service planning councils take action. They engage by writing letters, testifying to committees, becoming members of planning committees, and/or organizing others to lobby planning councils. As part of that process, social workers can carefully create opportunities for community members to participate so that their participation is meaningful and effective, rather than a token effort to “involve” residents. For example, social workers can invite community residents to testify at public hearings about proposals to close schools in their neighborhoods and help prepare them to testify. Social workers can also seek resident involvement in neighborhood committees and work to ensure that residents can voice their opinions, participate fully in decision-making, and assist to implement decisions. Social workers can also make connections between people in disparate situations, so that the needs of individuals are connected to broader efforts and wider structures. For example, if a social worker encounters a resident whose child has lead poisoning, the social worker may be able to link this “case” to a broader “cause” of a community problem with lead poisoning due to the old housing stock in the neighborhood and the reluctance of landlords to remediate the lead in their units. Social workers can also invite residents to participate in community-wide efforts to alleviate and prevent the problem, such as lead paint screenings in schools and programs to help tenants test for lead paint in their apartments.
+
+### Examples of Efforts to Promote Evidence-Based Community Practice
+
+- Children, Families, and Communities
+
+Harvard Family Research Project, Harvard Graduate School of Education. The Education Resources Information Center (ERIC) contains new studies on programs and policies, particularly those focused on children, families, and communities. Available at https://eric.ed.gov/.
+
+Society for Child and Family Policy and Practice, Division 37 of the American Psychological Association (APA). The Society provides information about services and service structures for children and youth. See www.apa.org/about/division/div37.
+
+- Community Change
+
+The Aspen Institute report, Building Knowledge about Community Change, summarizes key learning about how to evaluate community change initiatives and how to identify strategies for enhancing the evidence base for improving conditions in low-income communities. Available at www.aspeninstitute. org/publications/building-knowledge-about-community-change-moving-beyond-evaluation/.
+
+Society for Community Research and Action, Division 27 of the American Psychological Association (APA). The Society provides access to research on community interventions. See www.apa.org/about/ division/div27.
+
+- Early Childhood, health Care, and housing
+
+The Centers for Disease Control and Prevention’s The Guide to Community Preventive Services includes systematic reviews of interventions in early childhood development programs, culturally competent health care, and housing. Available at www.thecommunityguide.org.
+
+- General evidence-Based resources for Community practice
+
+The Campbell Collaboration promotes positive social change through the production and use of systematic reviews and other evidence synthesis for evidence-based policy and practice. Available at campbellcollaboration.org.
+
+Laura and John Arnold Foundation Evidence-Based Policy and Innovation. This nonprofit organization is committed to evidence-based social policies and programs. See www.arnoldventures. org/work/evidence-based-policy.
+
+- Housing
+
+U.S. Department of Housing and Urban Development (HUD). HUD has done much research on housing issues, and reports are available at www.huduser.gov/portal/reports/home.html.
+
+- Mental health in Communities
+
+National Registry of Evidence-based Programs and Practices (NREPP). Sponsored by the Substance Abuse and Mental Health Services Administration, NREPP is an online, searchable registry of evidence-based mental health and substance use interventions. Available at www.samhsa.gov/ebp-resource-center
+
+- Violence prevention
+
+The Center for the Study and Prevention of Violence (CSPV), University of Colorado at Boulder provides research on effective violence prevention. Available at https://cspv.colorado.edu/
+
+Sources: Updated from Ohmer, 2008 and Thyer, 2008
+
+### EXHIBIT 11.6 Effectiveness of Community Practice
+
+Community practice interventions are often complex, with multiple community locations, goals, and activities that make them difficult to evaluate. However, scholars suggest that community practice interventions:
+
+- have a positive impact on facilitating citizen participation, including increasing collective action and community involvement;
+
+- facilitate personal and collective competencies among participants, including increasing self-esteem, personal and community empowerment, leadership and political skills, and community pride and belonging;
+
+- have a positive impact on improving the physical, social, and economic conditions of communities (i.e., creating and improving affordable housing; increasing home ownership, improving infrastructure and physical appearance; increasing income, investment, and employment; improving high school education; and reducing the sale of alcohol to and its use among young people);
+
+- are often unable to find statistically significant effects (many studies indicate that interventions do not affect the physical and economic attributes of the communities); and
+
+- increase the likelihood of involving the community organizing efforts of older female residents, African Americans, and Hispanics.
+
+other factors that help to explain and predict citizen participation include interest in the problems the intervention was attempting to solve, neighborhood perceptions and relationships, and length of residency.
+
+Community practice interventions more easily improve citizen participation and associated benefits (i.e., improving collective action and personal and political skills of participants) than they improve complex physical, social, and economic problems in poor communities. Therefore, social work strategies should simultaneously focus on developing ways to strengthen citizen participation and on building the capacity of individuals.
+
+Source: Ohmer & Korr, 2006
+
+# evaluation of social work practice with Communities
+
+Similar to evaluation with individuals, families, and groups, evaluation of social work community practice interventions can assess the process along the way (i.e., ==process evaluation==); the extent to which goals were achieved (i.e., ==outcome evaluation==); and the social worker’s skills in the intervention phase. Evaluation seeks to determine the value of the intervention and differs from simply monitoring one’s practice (Netting et al., 2017). Just as the community change effort is a collaborative process, so too is the evaluation. Community participation is important throughout the change effort to empower participants. Similarly, community members who are able to collaborate as equal partners in evaluation are likely to feel a deserved sense of ownership in the process.
+
+The evaluation process begins as an element of the intervention design and may be predetermined by an organization, a funder, or a public entity. It requires social workers and community members first to determine: (1) whether both the process and outcomes will be evaluated, (2) the ways in which the process and outcomes will be evaluated, and (3) the means by which data will be collected as the basis for the evaluation. Evaluation of community change efforts may include documentation of individual, interpersonal, and community processes and outcomes. Preferably, the evaluation process will include both qualitative and quantitative data to provide information about the process of community change and progress on the desired outcomes at the individual, interpersonal, and community levels.
+
+# Critical Considerations in Community intervention, termination, evaluation, and follow-up
+
+Community social work practice, including the intervention, termination, evaluation, and follow-up phases, offers many rewards and challenges. One challenging aspect of some types of community social work practice is long hours. For example, community social work practice can involve working during the day with professionals in organizations and institutions and in the evenings and on weekends with community participants. Efforts to change institutions, policies, and practices can take a long time, and there may be many setbacks along the way. Tangible rewards and successes for the work may be few and far between, which can lead to burnout unless social workers have a solid understanding of practice at the community level (Rubin & Rubin, 2008).
+
+Rewards include the satisfaction of working to change environments to better meet the needs of, and to provide empowerment opportunities for, individuals and communities. Many community practitioners appreciate the ability to partner with individuals, families, and groups to better their lives, while avoiding the view of persons as clients, which can involve diagnostic labels, treatment plans, and a primarily individualistic perspective. In community practice, community members are involved in making decisions that affect their lives, sometimes for the first time. Helping people gain their voices and work toward large-scale social change is work toward social justice. The variety of tasks completed, the joy of successes, and the autonomy and flexibility are other factors that attract social workers to community practice (Rubin & Rubin, 2008).
+
+Community practitioners must have the energy for long-term work and must be able to see value in the process and effort involved, rather than just in the outcomes. The occasional victories, even short-term or small, along with the benefits of working with and on behalf of entire communities, must be enough to sustain community practitioners. Community practitioners must celebrate small gains. They must often work diligently on short-term or immediate goals, while keeping the larger, systemic, institutional change in focus.
