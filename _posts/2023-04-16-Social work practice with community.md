@@ -26,6 +26,7 @@ Community practice models, which are primarily based in the concepts and languag
 Ecological theory’s focus on competition for limited resources, which can affect the relationships among different parts of a community or between communities, informs community interventions. Theoretical traditions that focus on power, change, and politics emphasize the ways in which external forces influence local communities and the ways in which some members of a community possess social or political power while other members do not. Social workers in community practice can help members of a community critically examine both external and internal power and the influence of the various types of power. Without examining power dynamics, community members cannot have honest and open discussions about what is best for the community as a whole, and how to establish priorities for their community’s future.
 
 ### Exhibit 11.1 Understanding Community Practice: Theoretical Contributions
+
 | Theoretical                 | Contributions to understanding community practice                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | Social systems              | Reveals that changes in one community unit impact other units indicates that changes in subunits influence the larger community |
@@ -38,6 +39,7 @@ Ecological theory’s focus on competition for limited resources, which can affe
 |                             | Views the community as divided into "haves" and "have-nots"                                                                     |
 |                             | Focuses heavily on "isms" such as racism                                                                                        |
 |                             | Acknowledges the role of power in all interpersonal transactions                                                                |
+
 Source: Netting, Kettner, McMurtry, & Thomas, 2017
 
 As highlighted in Chapter 10, data from the community-assessment process provides the basis for community change efforts, which often use a variety of approaches. The models most common in the literature are Rothman’s (2008) three models of community practice: planning/policy, community capacity development, and social advocacy. These three models have the goal of improving social, economic, and/or environmental well-being and share several common elements, including the following:
@@ -84,19 +86,19 @@ As listed in Quick Guide 32, there are a wide variety of social advocacy activit
 
 ### Activities to Promote Social Change
 - Conduct petition drives 
-- ==Conduct public hearings== 
-- ==Develop relationships with decision-makers== 
+- **Conduct public hearings** 
+- **Develop relationships with decision-makers**
 - File complaints 
 - Lobby decision-makers 
 - Organize boycotts 
 - Organize public demonstrations 
 - Organize strikes 
-- ==Provide testimony== 
+- **Provide testimony** 
 - Recruit and develop leaders 
 - Register voters 
 - Use legal action 
-- ==Use media== 
-- ==Write letters to legislators and/or the media==
+- **Use media** 
+- **Write letters to legislators and/or the media**
 Sources: Bobo, Kendall, & Max, 2010; University of Kansas Work Group for Community Health and Development, 2018
 
 ### Applying Community Practice Models to the Brickville Redevelopment Example
@@ -219,7 +221,7 @@ As discussed in Chapter 9, promoting leadership from within the community in soc
 
 Source: Adapted from Bobo, Kendall, & Max, 2010; Minieri & Getsos, 2007
 
-In task groups, using decision-making processes that promote full participation is important. Decision-making for groups can be handled in many ways, including the ==parliamentary procedures==, sometimes known as ==Robert’s Rules of Order==, and ==consensus decision-making==. Quick Guide 35 provides an overview of Robert’s Rules of Order, and Quick Guide 36 provides an overview of consensus decision-making. Both types of decision-making processes are common in task groups, depending on the context of the work. Social workers need to be familiar with decision-making processes to fully participate as individuals and to help others participate.
+In task groups, using decision-making processes that promote full participation is important. Decision-making for groups can be handled in many ways, including the **parliamentary procedures**, sometimes known as **Robert’s Rules of Order**, and **consensus decision-making**. Quick Guide 35 provides an overview of Robert’s Rules of Order, and Quick Guide 36 provides an overview of consensus decision-making. Both types of decision-making processes are common in task groups, depending on the context of the work. Social workers need to be familiar with decision-making processes to fully participate as individuals and to help others participate.
 
 Recruitment of new participants is an ongoing and important community development skill. Participants involved in community development work are often volunteers, and recruiting, training, monitoring, and rewarding volunteers is important to the success of long-term goals. The most effective ways to recruit participants include focusing on people who are most likely to join, using a well-formed recruiting message, using multiple recruitment methods, providing orientation for new participants, and making it easy to join activities. Volunteer activities have to be calibrated to fit the skills, time, and interests of volunteers and be meaningful to them (Cnaan & Rothman, 2008).
 
@@ -265,7 +267,7 @@ Depending on the context of the community intervention, generalist social worker
 
 Social workers can help build the capacity of individuals to engage in community interventions in many ways. At the interpersonal level, social workers emphasize collaboration with both clients and community members to optimize rights, strengths, and capabilities. Social workers discuss power and control with clients and community members to increase awareness of these dynamics in everyday life and in community activities. As first suggested by Paulo Freire (1973), educating people about social conditions, patterns of resource distribution, oppression, and other social and environmental realities, and using respectful discussion and questioning, can help and support people to engage in collective action.
 
-==Social workers strive to provide evidence-based interventions in community practice==. Creating a body of research to inform evidence-based practice has proven challenging due to the complexity of community interventions, the difficulties of community research, and many organizations’ lack of capacity to engage in research. Yet social workers must conduct or locate research before intervening. Quick Guide 37 lists sample resources for locating evidence on community practice interventions. Exhibit 11.6 provides research findings about the most effective community intervention activities that social workers undertake (Ohmer & Korr, 2006).
+**Social workers strive to provide evidence-based interventions in community practice**. Creating a body of research to inform evidence-based practice has proven challenging due to the complexity of community interventions, the difficulties of community research, and many organizations’ lack of capacity to engage in research. Yet social workers must conduct or locate research before intervening. Quick Guide 37 lists sample resources for locating evidence on community practice interventions. Exhibit 11.6 provides research findings about the most effective community intervention activities that social workers undertake (Ohmer & Korr, 2006).
 
 Social workers also engage in social planning efforts when they participate in proposing that elected officials or human service planning councils take action. They engage by writing letters, testifying to committees, becoming members of planning committees, and/or organizing others to lobby planning councils. As part of that process, social workers can carefully create opportunities for community members to participate so that their participation is meaningful and effective, rather than a token effort to “involve” residents. For example, social workers can invite community residents to testify at public hearings about proposals to close schools in their neighborhoods and help prepare them to testify. Social workers can also seek resident involvement in neighborhood committees and work to ensure that residents can voice their opinions, participate fully in decision-making, and assist to implement decisions. Social workers can also make connections between people in disparate situations, so that the needs of individuals are connected to broader efforts and wider structures. For example, if a social worker encounters a resident whose child has lead poisoning, the social worker may be able to link this “case” to a broader “cause” of a community problem with lead poisoning due to the old housing stock in the neighborhood and the reluctance of landlords to remediate the lead in their units. Social workers can also invite residents to participate in community-wide efforts to alleviate and prevent the problem, such as lead paint screenings in schools and programs to help tenants test for lead paint in their apartments.
 
@@ -329,7 +331,7 @@ Source: Ohmer & Korr, 2006
 
 # evaluation of social work practice with Communities
 
-Similar to evaluation with individuals, families, and groups, evaluation of social work community practice interventions can assess the process along the way (i.e., ==process evaluation==); the extent to which goals were achieved (i.e., ==outcome evaluation==); and the social worker’s skills in the intervention phase. Evaluation seeks to determine the value of the intervention and differs from simply monitoring one’s practice (Netting et al., 2017). Just as the community change effort is a collaborative process, so too is the evaluation. Community participation is important throughout the change effort to empower participants. Similarly, community members who are able to collaborate as equal partners in evaluation are likely to feel a deserved sense of ownership in the process.
+Similar to evaluation with individuals, families, and groups, evaluation of social work community practice interventions can assess the process along the way (i.e., **process evaluation**); the extent to which goals were achieved (i.e., **outcome evaluation**); and the social worker’s skills in the intervention phase. Evaluation seeks to determine the value of the intervention and differs from simply monitoring one’s practice (Netting et al., 2017). Just as the community change effort is a collaborative process, so too is the evaluation. Community participation is important throughout the change effort to empower participants. Similarly, community members who are able to collaborate as equal partners in evaluation are likely to feel a deserved sense of ownership in the process.
 
 The evaluation process begins as an element of the intervention design and may be predetermined by an organization, a funder, or a public entity. It requires social workers and community members first to determine: (1) whether both the process and outcomes will be evaluated, (2) the ways in which the process and outcomes will be evaluated, and (3) the means by which data will be collected as the basis for the evaluation. Evaluation of community change efforts may include documentation of individual, interpersonal, and community processes and outcomes. Preferably, the evaluation process will include both qualitative and quantitative data to provide information about the process of community change and progress on the desired outcomes at the individual, interpersonal, and community levels.
 

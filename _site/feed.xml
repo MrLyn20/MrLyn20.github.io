@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-16T23:06:06+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">同志社大学社会学研究科　陳凌雲</title><subtitle>普段研究している内容を発信します。</subtitle><entry><title type="html">Social Work Practice with Communities - Intervention, Termination, and Evaluation</title><link href="http://localhost:4000/social%20work%20practice/2023/04/16/Social-work-practice-with-community.html" rel="alternate" type="text/html" title="Social Work Practice with Communities - Intervention, Termination, and Evaluation" /><published>2023-04-16T00:00:00+09:00</published><updated>2023-04-16T00:00:00+09:00</updated><id>http://localhost:4000/social%20work%20practice/2023/04/16/Social%20work%20practice%20with%20community</id><content type="html" xml:base="http://localhost:4000/social%20work%20practice/2023/04/16/Social-work-practice-with-community.html"><![CDATA[<h1 id="書籍">書籍</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-17T09:27:58+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">同志社大学社会学研究科　陳凌雲</title><subtitle>普段研究している内容を発信します。</subtitle><entry><title type="html">Social Work Practice with Communities - Intervention, Termination, and Evaluation</title><link href="http://localhost:4000/social%20work%20practice/2023/04/16/Social-work-practice-with-community.html" rel="alternate" type="text/html" title="Social Work Practice with Communities - Intervention, Termination, and Evaluation" /><published>2023-04-16T00:00:00+09:00</published><updated>2023-04-16T00:00:00+09:00</updated><id>http://localhost:4000/social%20work%20practice/2023/04/16/Social%20work%20practice%20with%20community</id><content type="html" xml:base="http://localhost:4000/social%20work%20practice/2023/04/16/Social-work-practice-with-community.html"><![CDATA[<h1 id="書籍">書籍</h1>
 <p>Birkenmaier, J., &amp; Berg-Weger, M. (2020). <em>The practice of generalist social work</em>. Routledge.P496-527</p>
 
 <h1 id="begin">Begin</h1>
@@ -17,19 +17,59 @@ the middle and ending phases of work with communities are intervention ,terminat
 <p>Ecological theory’s focus on competition for limited resources, which can affect the relationships among different parts of a community or between communities, informs community interventions. Theoretical traditions that focus on power, change, and politics emphasize the ways in which external forces influence local communities and the ways in which some members of a community possess social or political power while other members do not. Social workers in community practice can help members of a community critically examine both external and internal power and the influence of the various types of power. Without examining power dynamics, community members cannot have honest and open discussions about what is best for the community as a whole, and how to establish priorities for their community’s future.</p>
 
 <h3 id="exhibit-111-understanding-community-practice-theoretical-contributions">Exhibit 11.1 Understanding Community Practice: Theoretical Contributions</h3>
-<p>| Theoretical                 | Contributions to understanding community practice                                                                               |
-| ————————— | ——————————————————————————————————————————- |
-| Social systems              | Reveals that changes in one community unit impact other units indicates that changes in subunits influence the larger community |
-|                             | Allows comparisons of the functioning of different communities                                                                  |
-| Ecological                  | Sheds light on relationships among community units                                                                              |
-|                             | Recognizes that community groups compete for limited resources                                                                  |
-|                             | Recognizes that groups without power must adapt to community norms                                                              |
-|                             | Acknowledges the interconnections and mutual shaping of physical and social structures                                          |
-| Power, Change, and politics | Reveals the influence of external sources of resources on communities                                                           |
-|                             | Views the community as divided into “haves” and “have-nots”                                                                     |
-|                             | Focuses heavily on “isms” such as racism                                                                                        |
-|                             | Acknowledges the role of power in all interpersonal transactions                                                                |
-Source: Netting, Kettner, McMurtry, &amp; Thomas, 2017</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Theoretical</th>
+      <th>Contributions to understanding community practice</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Social systems</td>
+      <td>Reveals that changes in one community unit impact other units indicates that changes in subunits influence the larger community</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Allows comparisons of the functioning of different communities</td>
+    </tr>
+    <tr>
+      <td>Ecological</td>
+      <td>Sheds light on relationships among community units</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Recognizes that community groups compete for limited resources</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Recognizes that groups without power must adapt to community norms</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Acknowledges the interconnections and mutual shaping of physical and social structures</td>
+    </tr>
+    <tr>
+      <td>Power, Change, and politics</td>
+      <td>Reveals the influence of external sources of resources on communities</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Views the community as divided into “haves” and “have-nots”</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Focuses heavily on “isms” such as racism</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Acknowledges the role of power in all interpersonal transactions</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Source: Netting, Kettner, McMurtry, &amp; Thomas, 2017</p>
 
 <p>As highlighted in Chapter 10, data from the community-assessment process provides the basis for community change efforts, which often use a variety of approaches. The models most common in the literature are Rothman’s (2008) three models of community practice: planning/policy, community capacity development, and social advocacy. These three models have the goal of improving social, economic, and/or environmental well-being and share several common elements, including the following:</p>
 
@@ -78,19 +118,19 @@ Source: Netting, Kettner, McMurtry, &amp; Thomas, 2017</p>
 <h3 id="activities-to-promote-social-change">Activities to Promote Social Change</h3>
 <ul>
   <li>Conduct petition drives</li>
-  <li>==Conduct public hearings==</li>
-  <li>==Develop relationships with decision-makers==</li>
+  <li><strong>Conduct public hearings</strong></li>
+  <li><strong>Develop relationships with decision-makers</strong></li>
   <li>File complaints</li>
   <li>Lobby decision-makers</li>
   <li>Organize boycotts</li>
   <li>Organize public demonstrations</li>
   <li>Organize strikes</li>
-  <li>==Provide testimony==</li>
+  <li><strong>Provide testimony</strong></li>
   <li>Recruit and develop leaders</li>
   <li>Register voters</li>
   <li>Use legal action</li>
-  <li>==Use media==</li>
-  <li>==Write letters to legislators and/or the media==
+  <li><strong>Use media</strong></li>
+  <li><strong>Write letters to legislators and/or the media</strong>
 Sources: Bobo, Kendall, &amp; Max, 2010; University of Kansas Work Group for Community Health and Development, 2018</li>
 </ul>
 
@@ -327,7 +367,7 @@ Sources: Bobo, Kendall, &amp; Max, 2010; University of Kansas Work Group for Com
 
 <p>Source: Adapted from Bobo, Kendall, &amp; Max, 2010; Minieri &amp; Getsos, 2007</p>
 
-<p>In task groups, using decision-making processes that promote full participation is important. Decision-making for groups can be handled in many ways, including the ==parliamentary procedures==, sometimes known as ==Robert’s Rules of Order==, and ==consensus decision-making==. Quick Guide 35 provides an overview of Robert’s Rules of Order, and Quick Guide 36 provides an overview of consensus decision-making. Both types of decision-making processes are common in task groups, depending on the context of the work. Social workers need to be familiar with decision-making processes to fully participate as individuals and to help others participate.</p>
+<p>In task groups, using decision-making processes that promote full participation is important. Decision-making for groups can be handled in many ways, including the <strong>parliamentary procedures</strong>, sometimes known as <strong>Robert’s Rules of Order</strong>, and <strong>consensus decision-making</strong>. Quick Guide 35 provides an overview of Robert’s Rules of Order, and Quick Guide 36 provides an overview of consensus decision-making. Both types of decision-making processes are common in task groups, depending on the context of the work. Social workers need to be familiar with decision-making processes to fully participate as individuals and to help others participate.</p>
 
 <p>Recruitment of new participants is an ongoing and important community development skill. Participants involved in community development work are often volunteers, and recruiting, training, monitoring, and rewarding volunteers is important to the success of long-term goals. The most effective ways to recruit participants include focusing on people who are most likely to join, using a well-formed recruiting message, using multiple recruitment methods, providing orientation for new participants, and making it easy to join activities. Volunteer activities have to be calibrated to fit the skills, time, and interests of volunteers and be meaningful to them (Cnaan &amp; Rothman, 2008).</p>
 
@@ -379,7 +419,7 @@ Sources: Bobo, Kendall, &amp; Max, 2010; University of Kansas Work Group for Com
 
 <p>Social workers can help build the capacity of individuals to engage in community interventions in many ways. At the interpersonal level, social workers emphasize collaboration with both clients and community members to optimize rights, strengths, and capabilities. Social workers discuss power and control with clients and community members to increase awareness of these dynamics in everyday life and in community activities. As first suggested by Paulo Freire (1973), educating people about social conditions, patterns of resource distribution, oppression, and other social and environmental realities, and using respectful discussion and questioning, can help and support people to engage in collective action.</p>
 
-<p>==Social workers strive to provide evidence-based interventions in community practice==. Creating a body of research to inform evidence-based practice has proven challenging due to the complexity of community interventions, the difficulties of community research, and many organizations’ lack of capacity to engage in research. Yet social workers must conduct or locate research before intervening. Quick Guide 37 lists sample resources for locating evidence on community practice interventions. Exhibit 11.6 provides research findings about the most effective community intervention activities that social workers undertake (Ohmer &amp; Korr, 2006).</p>
+<p><strong>Social workers strive to provide evidence-based interventions in community practice</strong>. Creating a body of research to inform evidence-based practice has proven challenging due to the complexity of community interventions, the difficulties of community research, and many organizations’ lack of capacity to engage in research. Yet social workers must conduct or locate research before intervening. Quick Guide 37 lists sample resources for locating evidence on community practice interventions. Exhibit 11.6 provides research findings about the most effective community intervention activities that social workers undertake (Ohmer &amp; Korr, 2006).</p>
 
 <p>Social workers also engage in social planning efforts when they participate in proposing that elected officials or human service planning councils take action. They engage by writing letters, testifying to committees, becoming members of planning committees, and/or organizing others to lobby planning councils. As part of that process, social workers can carefully create opportunities for community members to participate so that their participation is meaningful and effective, rather than a token effort to “involve” residents. For example, social workers can invite community residents to testify at public hearings about proposals to close schools in their neighborhoods and help prepare them to testify. Social workers can also seek resident involvement in neighborhood committees and work to ensure that residents can voice their opinions, participate fully in decision-making, and assist to implement decisions. Social workers can also make connections between people in disparate situations, so that the needs of individuals are connected to broader efforts and wider structures. For example, if a social worker encounters a resident whose child has lead poisoning, the social worker may be able to link this “case” to a broader “cause” of a community problem with lead poisoning due to the old housing stock in the neighborhood and the reluctance of landlords to remediate the lead in their units. Social workers can also invite residents to participate in community-wide efforts to alleviate and prevent the problem, such as lead paint screenings in schools and programs to help tenants test for lead paint in their apartments.</p>
 
@@ -465,7 +505,7 @@ Sources: Bobo, Kendall, &amp; Max, 2010; University of Kansas Work Group for Com
 
 <h1 id="evaluation-of-social-work-practice-with-communities">evaluation of social work practice with Communities</h1>
 
-<p>Similar to evaluation with individuals, families, and groups, evaluation of social work community practice interventions can assess the process along the way (i.e., ==process evaluation==); the extent to which goals were achieved (i.e., ==outcome evaluation==); and the social worker’s skills in the intervention phase. Evaluation seeks to determine the value of the intervention and differs from simply monitoring one’s practice (Netting et al., 2017). Just as the community change effort is a collaborative process, so too is the evaluation. Community participation is important throughout the change effort to empower participants. Similarly, community members who are able to collaborate as equal partners in evaluation are likely to feel a deserved sense of ownership in the process.</p>
+<p>Similar to evaluation with individuals, families, and groups, evaluation of social work community practice interventions can assess the process along the way (i.e., <strong>process evaluation</strong>); the extent to which goals were achieved (i.e., <strong>outcome evaluation</strong>); and the social worker’s skills in the intervention phase. Evaluation seeks to determine the value of the intervention and differs from simply monitoring one’s practice (Netting et al., 2017). Just as the community change effort is a collaborative process, so too is the evaluation. Community participation is important throughout the change effort to empower participants. Similarly, community members who are able to collaborate as equal partners in evaluation are likely to feel a deserved sense of ownership in the process.</p>
 
 <p>The evaluation process begins as an element of the intervention design and may be predetermined by an organization, a funder, or a public entity. It requires social workers and community members first to determine: (1) whether both the process and outcomes will be evaluated, (2) the ways in which the process and outcomes will be evaluated, and (3) the means by which data will be collected as the basis for the evaluation. Evaluation of community change efforts may include documentation of individual, interpersonal, and community processes and outcomes. Preferably, the evaluation process will include both qualitative and quantitative data to provide information about the process of community change and progress on the desired outcomes at the individual, interpersonal, and community levels.</p>
 
@@ -483,7 +523,7 @@ Sources: Bobo, Kendall, &amp; Max, 2010; University of Kansas Work Group for Com
 
 <h1 id="要旨">要旨</h1>
 
-<p>今日のわが国における社会福祉制度の動向を鑑みると、各福祉分野で地域支援が重要視されていると考えられる。しかしながら、これまで==地域支援の方法論とされてきたコミュニティワークは、概念や展開プロセス、用いる技術等が必ずしも明確化されていない==という課題がある。本稿は、これまでのコミュニティワークに関する研究から、特に==定義及び範囲に着目して整理を行い、それらを踏まえた上で、理論の再構築に向けた試論を提示==するものである。先行研究の検討から、「ニーズ·資源調整」、「インター·グループ·ワーク」、「統合」、「組織化」、「計画·政策」、「ソーシャル·アクション」、「アドミニストレーション」、「個別課題を踏まえた地域支援」、「主体形成とプログラム開発とその循環」がコミュニティワーク理論のキー概念として明らかになり、これらを基にコミュニティワークの体系図の提示を行った。</p>
+<p>今日のわが国における社会福祉制度の動向を鑑みると、各福祉分野で地域支援が重要視されていると考えられる。しかしながら、これまで<strong>地域支援の方法論とされてきたコミュニティワークは、概念や展開プロセス、用いる技術等が必ずしも明確化されていない</strong>という課題がある。本稿は、これまでのコミュニティワークに関する研究から、特に<strong>定義及び範囲に着目して整理を行い、それらを踏まえた上で、理論の再構築に向けた試論を提示</strong>するものである。先行研究の検討から、「ニーズ·資源調整」、「インター·グループ·ワーク」、「統合」、「組織化」、「計画·政策」、「ソーシャル·アクション」、「アドミニストレーション」、「個別課題を踏まえた地域支援」、「主体形成とプログラム開発とその循環」がコミュニティワーク理論のキー概念として明らかになり、これらを基にコミュニティワークの体系図の提示を行った。</p>
 
 <h1 id="キーワード">キーワード</h1>
 
@@ -491,31 +531,28 @@ Sources: Bobo, Kendall, &amp; Max, 2010; University of Kansas Work Group for Com
 
 <h1 id="研究の背景と課題の所在">研究の背景と課題の所在</h1>
 
-<p>今日、わが国の社会福祉の様々な領域において、地域づくりが重要視されており、それらの動向を集約する形で2017年に社会福祉法が改正された。同法においては、==包括的な支援体制の構築などが明記され、地域共生社会の実現に向けた法改正が進められている。このことからも、住民同士の支え合いの醸成、分野横断的なサービス提供体制の構築などの地域づくりに取り組むこと==が求められているといえる。</p>
+<p>今日、わが国の社会福祉の様々な領域において、地域づくりが重要視されており、それらの動向を集約する形で2017年に社会福祉法が改正された。同法においては、<strong>包括的な支援体制の構築などが明記され、地域共生社会の実現に向けた法改正が進められている。このことからも、住民同士の支え合いの醸成、分野横断的なサービス提供体制の構築などの地域づくりに取り組むこと</strong>が求められているといえる。</p>
 
-<p>このような、地域を支援する方法論にコミュニティワークがある。コミュニティワークについて、瓦井（2011）は「1987年に社会福祉士及び介護福祉士法が成立して以降は、用語としてコミュニティワークが定着しましたが、それでも理論的に統一された定義は未だに見られません」と述べており、理論的に確立しているとは言い難い状況にある。様々な福祉分野が地域を志向しているわが国の福祉施策の動向を踏まえると、==コミュニティワークの理論を明確化することは喫緊の課題==である。</p>
+<p>このような、地域を支援する方法論にコミュニティワークがある。コミュニティワークについて、瓦井（2011）は「1987年に社会福祉士及び介護福祉士法が成立して以降は、用語としてコミュニティワークが定着しましたが、それでも理論的に統一された定義は未だに見られません」と述べており、理論的に確立しているとは言い難い状況にある。様々な福祉分野が地域を志向しているわが国の福祉施策の動向を踏まえると、<strong>コミュニティワークの理論を明確化することは喫緊の課題</strong>である。</p>
 
-<p>定義が理論的に確立していないという課題を残す一方で、わが国の社会福祉士養成に関わるテキストでは、コミュニティワークの記述が減少し、代わりにコミュニティソーシャルワークの記述が増加している。また、研究論文においても、==近年コミュニティワークに関する研究が減少傾向にある==と金田は指摘している（金田2016)。</p>
+<p>定義が理論的に確立していないという課題を残す一方で、わが国の社会福祉士養成に関わるテキストでは、コミュニティワークの記述が減少し、代わりにコミュニティソーシャルワークの記述が増加している。また、研究論文においても、=<strong>近年コミュニティワークに関する研究が減少傾向にある</strong>と金田は指摘している（金田2016)。</p>
 
-<p>また、コミュニティソーシャルワークとコミュニティワークの関係性に関しては、==コミュニティソーシャルワークがコミュニティワークを包含するか否かなど、出口の見えない議論が続いており、コミュニティワークの曖昧さは地域福祉の援助技術に関する研究を進める上で、大きな阻害要因になっている==。</p>
+<p>また、コミュニティソーシャルワークとコミュニティワークの関係性に関しては、<strong>コミュニティソーシャルワークがコミュニティワークを包含するか否かなど、出口の見えない議論が続いており、コミュニティワークの曖昧さは地域福祉の援助技術に関する研究を進める上で、大きな阻害要因になっている</strong>。</p>
 
 <p>このことから、コミュニティワークに残された課題、すなわち定義や技術体系化に関する研究を進めていく必要があると考える。これを踏まえ、本稿はこれまでのコミュニティワークに関する研究から、特に定義と範囲に着目して整理を行い、それらを踏まえた上で、今後の理論研究の一つの方向性を示すものとして、試論ではあるが、コミュニティワークの定義、及び体系図の提示を行った。</p>
 
 <h1 id="平野のコミュニティワーク">平野のコミュニティワーク</h1>
 
-<p>平野（2003）も、コミュニティワークの展開プロセスとして==永田（幹）の「活動主体の組織化→問題把握→計画策定→計画実施→評価」==を示している。平野はさらに、コミュニティワークの実践プロセス整理において、活動主体の組織化とサービス資源の開発は区別されているものの、循環的な視点が弱いと指摘し、S⇔ Pモデルという実践モデルを提唱している。</p>
+<p>平野（2003）も、コミュニティワークの展開プロセスとして<strong>永田（幹）の「活動主体の組織化→問題把握→計画策定→計画実施→評価」</strong>を示している。平野はさらに、コミュニティワークの実践プロセス整理において、活動主体の組織化とサービス資源の開発は区別されているものの、循環的な視点が弱いと指摘し、S⇔ Pモデルという実践モデルを提唱している。</p>
 
 <p>永田（幹）</p>
 <div class="mermaid">
-```mermaid
 flowchart LR
 活動主体の組織化==&gt;問題把握==&gt;計画策定==&gt;計画実施==&gt;評価
-```
 </div>
 
 <p>活動主体とプログラムの循環（平野2008:104）</p>
 <div class="mermaid">
-```mermaid
 flowchart LR
 1.組織化---&gt;2.把握---&gt;3.作成---&gt;4.実施---&gt;5.評価---&gt;1.組織化
 subgraph one
@@ -525,7 +562,6 @@ subgraph two
 プログラム:M===3.作成
 プログラム:M===4.実施
 end
-```
 </div>
 
 <p>平野は永田（幹）の示した地域組織化過程をベースに、コミュニティワーカーが活動主体の組織化に関わり、プログラム作成を支援するという「援助実践」にウェイトを置いた循環構造として、図2を示している。</p>
